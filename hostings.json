@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Pluox Hosting",
+        "description": "Pluox Hosting is a versatile and dynamic hosting provider known for its comprehensive range of services, catering to both budget-conscious users and those seeking robust performance solutions. With a commitment to offering 24/7 availability, Pluox Hosting ensures that users have uninterrupted access to their hosting services at all times, making it a reliable choice for businesses and individual users alike.",
+        "logo": "https://consumersiteimages.trustpilot.net/business-units/668da6eef462e38352792cb2-198x149-2x.avif",
+        "shortname": "pluox",
+        "tags": ["free", "paid", "europe"],
+        "links": {
+          "panel": null,
+          "dash": null,
+          "discord": null,
+          "website": "https://pluox.xyz"
+        }
+    },
+    {
+        "name": "Pluox Hosting",
+        "description": "Pluox Hosting is a versatile and dynamic hosting provider known for its comprehensive range of services, catering to both budget-conscious users and those seeking robust performance solutions. With a commitment to offering 24/7 availability, Pluox Hosting ensures that users have uninterrupted access to their hosting services at all times, making it a reliable choice for businesses and individual users alike.",
+        "logo": "https://consumersiteimages.trustpilot.net/business-units/668da6eef462e38352792cb2-198x149-2x.avif",
+        "shortname": "pluox",
+        "tags": ["free", "paid", "europe"],
+        "links": {
+          "panel": "https://panel.lynxnodes.es",
+          "dash": null,
+          "discord": "https://discord.lynxnodes.es/",
+          "website": "https://lynxnodes.es"
+        }
+    }
+]
